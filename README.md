@@ -10,5 +10,5 @@ python main.py
 ```
 
 The code handles the unexpected charset by replacing it. If you do
-not replace it, error will occur during parsing.
+not replace it, errors will occur during parsing.
 
